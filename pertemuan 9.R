@@ -5,3 +5,6 @@ max(mtcars$mpg)
 min(mtcars$mpg)
 
 summary(mtcars$drat)
+
+boxplot(mtcars$mpg)
+
