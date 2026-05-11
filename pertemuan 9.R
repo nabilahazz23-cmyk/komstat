@@ -8,3 +8,6 @@ summary(mtcars$drat)
 hist(mtcars$drat)
 box(mtcars$drat)
 
+summary(mtcars$hp)
+hist(mtcars$hp)
+boxplot(mtcars$hp)
