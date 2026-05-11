@@ -5,6 +5,6 @@ max(mtcars$mpg)
 min(mtcars$mpg)
 
 summary(mtcars$drat)
-
+hist(mtcars$drat)
 boxplot(mtcars$mpg)
 
