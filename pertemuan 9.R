@@ -4,3 +4,4 @@ sd(mtcars$mpg)
 max(mtcars$mpg)
 min(mtcars$mpg)
 
+summary(mtcars$drat)
